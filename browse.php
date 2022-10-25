@@ -3,7 +3,7 @@ include("includes/includedFiles.php");
 ?>
 
 <h1 class="pageHeadingBig">You Might Also Like</h1>
-a change
+a change for the new feature
 <div class="gridViewContainer">
 
 	<?php
